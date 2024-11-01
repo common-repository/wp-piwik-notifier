@@ -1,0 +1,94 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-piwik-notifier\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-piwik-notifier\n"
+"POT-Creation-Date: 2014-07-10 10:37:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-07-10 13:08+0100\n"
+"Last-Translator: skjch <kjhskch>\n"
+"Language-Team: scharc <scharc@gmail.com>\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: inc/wppn-settings-page.php:6
+msgid "WP Piwik Notifier Setting"
+msgstr "WP Piwik Nofifier Einstellungen"
+
+#: inc/wppn-settings-page.php:12
+msgid "Notifier Bar Text"
+msgstr "Notifier Bar Text"
+
+#: inc/wppn-settings-page.php:25
+msgid "Notifier Bar OK Button"
+msgstr "Notifier Bar Ok Button"
+
+#: inc/wppn-settings-page.php:36
+msgid "Read More Text"
+msgstr "Notifier Bar Mehr Infos Text"
+
+#: inc/wppn-settings-page.php:47
+msgid "Front End Page"
+msgstr "Seite für den Datenschutz"
+
+#: inc/wppn-settings-page.php:66
+msgid "Select the Page for the Settings."
+msgstr "Wähle die Datenschutz-Seite aus"
+
+#: inc/wppn-settings-page.php:71
+msgid "Select Style Sheet"
+msgstr "Wähle dein StyleSheet faus"
+
+#: inc/wppn-settings-page.php:85
+msgid "Custom Style Sheet is marked with a *"
+msgstr "Dein StyleSheet ist mit einem * markiert"
+
+#: inc/wppn-settings-page.php:91
+msgid "URL to Piwik"
+msgstr "Pfad zu Piwik"
+
+#: inc/wppn-settings-page.php:98
+msgid "URL to Piwik with trailing slash: http://stats.piwik.org/"
+msgstr "Pfad zu Piwik mit einem Enden Slash: http://stats.piwik.org/"
+
+#: inc/wppn-settings-page.php:105
+msgid "Save changes"
+msgstr "Einstellungen speichern"
+
+#: wp-piwki-notifier.php:155
+msgid "Piwik Notifier"
+msgstr "Piwik Notifier"
+
+#: wp-piwki-notifier.php:180
+msgid "Please update the Piwik URL in the settings page"
+msgstr "Bitte überprüfe deine Einstellungen und trage den Pfad zu Piwik ein"
+
+#: wppn-config.php:19
+msgid ""
+"Write a long Text about Cookies, Tracking and so forth.\n"
+"            Maybe link to WIKIPEDIA or some other ressource.\n"
+"            Be sure to include the shortcode for the disable-cookie iframe:\n"
+"\n"
+"            [piwik-iframe]\n"
+"            "
+msgstr "Hier sollte deine Datenschutzerklärung stehen. Sei dir sicher das du das Piwik-iFrame ausgibst.[piwik-iframe]"
+
+#: wppn-config.php:28
+msgid "Privacy and Piwik Infos"
+msgstr "Datenschutz"
+
+#: wppn-config.php:37
+msgid "This Website uses Cookies to help build a better experience for you! Are you fine with this?"
+msgstr "Diese Webseite nutzt Cookies um dir ein angenehmeres Erlebnis zu gewährleisten"
+
+#: wppn-config.php:38
+msgid "OK"
+msgstr "Ok"
+
+#: wppn-config.php:39
+msgid "Read more or deactivate the tracking-cookie"
+msgstr "Informiere dich hier über Cookies oder deaktivere das Tracking"
+
